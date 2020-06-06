@@ -1,0 +1,32 @@
+.search{
+    border: 1px solid red;
+}
+.experiences{
+    border: 1px solid red;
+}
+.row{
+    margin-bottom: 10px;
+}
+form{
+    margin-top: 90px;
+}
+.card img{
+    height: 150px;
+}
+.host{
+    background-image: url('./Assets/host.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 3rem;
+}
+.text{
+    color: #0069D9;
+    font-weight: 900;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
